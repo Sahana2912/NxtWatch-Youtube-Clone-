@@ -8,5 +8,5 @@ Implemented Nxt Watch application which is a clone for YouTube where users can l
 
 Technologies used: React JS, JS, CSS, Bootstrap, Routing, REST API Calls, Local Storage, JWT Token, Authorization, Authentication
 
-The live application is as follows:
-https://github.com/Sahana2912/NxtWatch-Youtube-Clone-.git
+The working application will be as follows:
+https://assets.ccbp.in/frontend/content/react-js/nxt-watch-output.mp4
