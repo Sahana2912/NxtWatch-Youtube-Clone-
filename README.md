@@ -7,3 +7,6 @@ Implemented Nxt Watch application which is a clone for YouTube where users can l
 - Redirecting to the login page if the user tries to open Home, Trending, Gaming, Saved videos, Video item details routes which need authentication by implementing protected Route.
 
 Technologies used: React JS, JS, CSS, Bootstrap, Routing, REST API Calls, Local Storage, JWT Token, Authorization, Authentication
+
+The live application is as follows:
+https://github.com/Sahana2912/NxtWatch-Youtube-Clone-.git
